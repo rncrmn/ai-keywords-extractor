@@ -1,3 +1,9 @@
+## AI Keywords Extractor
+
+![ai keywords extractor](https://user-images.githubusercontent.com/55722725/227784230-b1b11e2b-9689-40fc-be1f-e9628bbb0e07.png)
+
+![ai keywords extractor output](https://user-images.githubusercontent.com/55722725/227784237-3eff9a47-8d68-4de0-8a0b-e37e9cb4aeb8.png)
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
